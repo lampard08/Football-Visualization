@@ -1,0 +1,181 @@
+Team,Game Period,Scored,Conceded
+Arsenal,0-10,3,4
+Arsenal,11-20,1,4
+Arsenal,21-30,5,5
+Arsenal,31-40,6,4
+Arsenal,41-50,8,6
+Arsenal,51-60,6,1
+Arsenal,61-70,7,3
+Arsenal,71-80,2,4
+Arsenal,81-90,2,4
+Aston Villa,0-10,6,1
+Aston Villa,11-20,3,3
+Aston Villa,21-30,3,3
+Aston Villa,31-40,2,4
+Aston Villa,41-50,6,2
+Aston Villa,51-60,2,7
+Aston Villa,61-70,5,4
+Aston Villa,71-80,5,4
+Aston Villa,81-90,10,3
+Brighton,0-10,3,0
+Brighton,11-20,6,5
+Brighton,21-30,1,4
+Brighton,31-40,3,1
+Brighton,41-50,4,8
+Brighton,51-60,7,6
+Brighton,61-70,3,6
+Brighton,71-80,0,1
+Brighton,81-90,6,7
+Burnley,0-10,6,7
+Burnley,11-20,2,4
+Burnley,21-30,2,2
+Burnley,31-40,3,7
+Burnley,41-50,1,5
+Burnley,51-60,4,1
+Burnley,61-70,1,8
+Burnley,71-80,4,4
+Burnley,81-90,1,2
+Chelsea,0-10,2,4
+Chelsea,11-20,1,1
+Chelsea,21-30,7,4
+Chelsea,31-40,6,3
+Chelsea,41-50,4,7
+Chelsea,51-60,5,5
+Chelsea,61-70,8,3
+Chelsea,71-80,7,0
+Chelsea,81-90,6,3
+Crystal Palace,0-10,5,9
+Crystal Palace,11-20,3,1
+Crystal Palace,21-30,5,7
+Crystal Palace,31-40,2,2
+Crystal Palace,41-50,3,4
+Crystal Palace,51-60,4,7
+Crystal Palace,61-70,3,5
+Crystal Palace,71-80,1,4
+Crystal Palace,81-90,6,9
+Everton,0-10,6,3
+Everton,11-20,3,3
+Everton,21-30,5,5
+Everton,31-40,5,5
+Everton,41-50,6,5
+Everton,51-60,5,1
+Everton,61-70,4,6
+Everton,71-80,3,4
+Everton,81-90,4,6
+Fulham,0-10,2,6
+Fulham,11-20,1,3
+Fulham,21-30,4,5
+Fulham,31-40,3,1
+Fulham,41-50,4,7
+Fulham,51-60,0,7
+Fulham,61-70,6,4
+Fulham,71-80,3,3
+Fulham,81-90,1,5
+Leeds Utd,0-10,6,6
+Leeds Utd,11-20,4,7
+Leeds Utd,21-30,3,8
+Leeds Utd,31-40,4,4
+Leeds Utd,41-50,7,8
+Leeds Utd,51-60,6,1
+Leeds Utd,61-70,6,9
+Leeds Utd,71-80,6,2
+Leeds Utd,81-90,5,3
+Leicester City,0-10,3,4
+Leicester City,11-20,5,2
+Leicester City,21-30,4,6
+Leicester City,31-40,5,3
+Leicester City,41-50,6,4
+Leicester City,51-60,5,3
+Leicester City,61-70,5,2
+Leicester City,71-80,9,4
+Leicester City,81-90,11,6
+Liverpool,0-10,3,4
+Liverpool,11-20,3,3
+Liverpool,21-30,4,4
+Liverpool,31-40,4,4
+Liverpool,41-50,9,4
+Liverpool,51-60,6,2
+Liverpool,61-70,10,2
+Liverpool,71-80,3,4
+Liverpool,81-90,9,9
+Manchester City,0-10,7,2
+Manchester City,11-20,8,2
+Manchester City,21-30,10,1
+Manchester City,31-40,6,2
+Manchester City,41-50,7,3
+Manchester City,51-60,9,4
+Manchester City,61-70,6,3
+Manchester City,71-80,6,2
+Manchester City,81-90,7,2
+Manchester Utd,0-10,4,7
+Manchester Utd,11-20,2,2
+Manchester Utd,21-30,8,3
+Manchester Utd,31-40,6,6
+Manchester Utd,41-50,4,2
+Manchester Utd,51-60,6,3
+Manchester Utd,61-70,10,1
+Manchester Utd,71-80,7,4
+Manchester Utd,81-90,11,5
+Newcastle Utd,0-10,3,4
+Newcastle Utd,11-20,2,3
+Newcastle Utd,21-30,3,7
+Newcastle Utd,31-40,1,4
+Newcastle Utd,41-50,1,6
+Newcastle Utd,51-60,4,5
+Newcastle Utd,61-70,3,5
+Newcastle Utd,71-80,2,7
+Newcastle Utd,81-90,11,9
+Sheffield Utd,0-10,2,5
+Sheffield Utd,11-20,1,2
+Sheffield Utd,21-30,3,4
+Sheffield Utd,31-40,0,7
+Sheffield Utd,41-50,1,8
+Sheffield Utd,51-60,3,4
+Sheffield Utd,61-70,1,11
+Sheffield Utd,71-80,3,6
+Sheffield Utd,81-90,3,5
+Southampton,0-10,4,2
+Southampton,11-20,2,8
+Southampton,21-30,6,5
+Southampton,31-40,8,5
+Southampton,41-50,7,6
+Southampton,51-60,4,8
+Southampton,61-70,3,4
+Southampton,71-80,0,6
+Southampton,81-90,5,9
+Tottenham,0-10,8,2
+Tottenham,11-20,5,1
+Tottenham,21-30,8,4
+Tottenham,31-40,6,1
+Tottenham,41-50,7,7
+Tottenham,51-60,5,4
+Tottenham,61-70,5,3
+Tottenham,71-80,5,1
+Tottenham,81-90,2,9
+West Brom,0-10,4,6
+West Brom,11-20,2,2
+West Brom,21-30,3,7
+West Brom,31-40,0,7
+West Brom,41-50,7,6
+West Brom,51-60,3,11
+West Brom,61-70,3,8
+West Brom,71-80,0,5
+West Brom,81-90,3,7
+West Ham Utd,0-10,6,5
+West Ham Utd,11-20,6,1
+West Ham Utd,21-30,4,3
+West Ham Utd,31-40,4,2
+West Ham Utd,41-50,6,3
+West Ham Utd,51-60,7,5
+West Ham Utd,61-70,3,8
+West Ham Utd,71-80,1,3
+West Ham Utd,81-90,11,7
+Wolverhampton,0-10,2,4
+Wolverhampton,11-20,3,6
+Wolverhampton,21-30,2,3
+Wolverhampton,31-40,2,4
+Wolverhampton,41-50,6,3
+Wolverhampton,51-60,2,8
+Wolverhampton,61-70,6,3
+Wolverhampton,71-80,4,3
+Wolverhampton,81-90,3,7
